@@ -20,7 +20,7 @@ Atlantis – небольшая команда инженеров. Мы разр
 
 Монорепозиторий, содержащий набор интеграционных пакетов для Next.js приложений.
 <br>
-## <img width="28" alt="atlantis@reactjs" src="[https://github.com/atls-design/planning/assets/102182195/0da22784-9f1f-4e64-9f4b-caf1635da4dd](https://github.com/user-attachments/assets/d65bca8d-1c1d-4a61-95a1-d2997f9d99a5)"> [ReactJS Custom Workshop](https://github.com/atls/reactjs)
+## <img width="28" alt="atlantis@reactjs" src="https://github.com/atls-design/planning/assets/102182195/0da22784-9f1f-4e64-9f4b-caf1635da4dd"> [ReactJS Custom Workshop](https://github.com/atls/reactjs)
 
 Набор кастомных компонентов, хуков и контекстов для работы с пользовательскими данными и другими функциональными возможностями в React-приложениях.
 <br>
