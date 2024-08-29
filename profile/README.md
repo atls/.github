@@ -8,16 +8,20 @@ Atlantis – небольшая команда инженеров. Мы разр
 
 # 🚀 Решения
 
-## <img width="28" alt="atlantis@nestjs" src="https://github.com/atls-design/planning/assets/102182195/af09fb21-1818-47cb-aecc-1f204752d08e"> [Atlantis Toolset](https://github.com/atls/tools)
+## <img width="28" alt="atlantis@nestjs" src="https://github.com/user-attachments/assets/de4fdd90-ebbb-406e-b239-1ce65e8ed7df"> [Atlantis Toolset](https://github.com/atls/tools)
+
 Монорепозиторий с набором инструментов и утилит, разработанных нашей командой для использования в проектах на JavaScript и TypeScript и направлены на обеспечение согласованного опыта разработки и повышения производительности.
 <br>
-## <img width="28" alt="atlantis@nestjs" src="https://github.com/atls-design/planning/assets/102182195/0c052c46-50cf-43db-93e3-4e261025bd16"> [NestJS Custom Workshop](https://github.com/atls/nestjs)
+## <img width="28" alt="atlantis@nestjs" src="https://github.com/user-attachments/assets/ea4c916c-fb50-402e-a207-21c652a18e77"> [NestJS Custom Workshop](https://github.com/atls/nestjs)
+
 Набор модулей для NestJS, разработанный для упрощения разработки и улучшения продуктивности работы с фреймворком.
 <br>
-## <img width="28" alt="atlantis@nextjs" src="https://github.com/atls-design/planning/assets/102182195/82afade4-55f5-48fd-9839-df7831196cec"> [NextJS Custom Workshop](https://github.com/atls/nextjs)
+## <img width="28" alt="atlantis@nextjs" src="https://github.com/user-attachments/assets/dddbf072-1791-49a3-b10e-256c401ec0af"> [NextJS Custom Workshop](https://github.com/atls/nextjs)
+
 Монорепозиторий, содержащий набор интеграционных пакетов для Next.js приложений.
 <br>
-## <img width="28" alt="atlantis@reactjs" src="https://github.com/atls-design/planning/assets/102182195/0da22784-9f1f-4e64-9f4b-caf1635da4dd"> [ReactJS Custom Workshop](https://github.com/atls/reactjs)
+## <img width="28" alt="atlantis@reactjs" src="[https://github.com/atls-design/planning/assets/102182195/0da22784-9f1f-4e64-9f4b-caf1635da4dd](https://github.com/user-attachments/assets/d65bca8d-1c1d-4a61-95a1-d2997f9d99a5)"> [ReactJS Custom Workshop](https://github.com/atls/reactjs)
+
 Набор кастомных компонентов, хуков и контекстов для работы с пользовательскими данными и другими функциональными возможностями в React-приложениях.
 <br>
 
