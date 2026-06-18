@@ -1,8 +1,7 @@
 name: Repo
 description: Создание репозитория
 title: '[Repo] '
-projects: ["atls/11"]
-type: 'Task'
+type: 'Repo'
 assignees:
   - TorinAsakura
 body:
