@@ -1,7 +1,6 @@
 name: OPS
 description: Operations Tasks
 title: "[OPS] "
-projects: ["atls/11"]
 type: OPS
 assignees:
   - TorinAsakura
