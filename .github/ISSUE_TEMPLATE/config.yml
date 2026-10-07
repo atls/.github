@@ -5,6 +5,7 @@ contact_links:
     about: О наших релизах
   - name: Telegram
     url: https://t.me/atls
+    about: Основной канал ATLS
   - name: Telegram Challenges
     url: https://t.me/atls_challenges
     about: Челленджи под наши вакансии
